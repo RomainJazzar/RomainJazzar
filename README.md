@@ -2,7 +2,7 @@
 
 ### Dev  
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/138708710?v=4" align="center" style="width: 100%" />
+<img src="https://data.moonscdn.com/prompt/slices/1/watermarked/A-futuristic-cyberpunk-loft-with-neon-lit-cityscape._vIrvg.png" align="center" style="width: 100%" />
 </div>  
   
 
