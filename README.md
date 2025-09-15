@@ -1,104 +1,133 @@
+<!--
+  Profile README – Romain Jazzar
+  Bilingual (FR/EN), recruiter-friendly, clean + icon-heavy, consistent with your AI/Data focus.
+-->
 
-
-### Dev  
 <div align="center">
-<img src="https://data.moonscdn.com/prompt/slices/1/watermarked/A-futuristic-cyberpunk-loft-with-neon-lit-cityscape._vIrvg.png" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">EN: I'm Romain, a full-time full-stack developer 👨‍💻 specializing in AI engineering right now 🚀
-FR: Je suis Romain, developpeur full stack, me specialisant en IA.</div>  
-  
+# 👋 Salut, moi c’est Romain — Hi, I’m Romain
 
-- Im currently on finishing my AI internship  
-  
+**AI & Data (Marseille, FR)** · **Alternance 24 mois (Sept 2025)**  
+AI • Data Science • Business Intelligence • Python • SQL • Power BI
 
-- 🌱 I’m currently learning python to start my master in Data science Engineering  
-  
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-24%20mo.-brightgreen?style=for-the-badge)](#-contact--contact)
+[![Location](https://img.shields.io/badge/Marseille-FR-blue?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-ff69b4?style=for-the-badge)](https://romainjazzar.github.io/Mon-portfolio-IA/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-romainjazzar-0A66C2?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/romainjazzar/)
+[![GitHub](https://img.shields.io/badge/GitHub-RomainJazzar-181717?logo=github&style=for-the-badge)](https://github.com/RomainJazzar)
 
-- ❓ Ask me about anything related to full stack or python !!   
-  
+<img src="https://data.moonscdn.com/prompt/slices/1/watermarked/A-futuristic-cyberpunk-loft-with-neon-lit-cityscape._vIrvg.png" width="100%" alt="Header banner" />
 
--  My passion is AI !!
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+---
 
+## 🇫🇷 À propos
+Je construis des **solutions data** utiles, belles et actionnables : du nettoyage des données jusqu’au **dashboard** qui aide vraiment à décider.  
+Passé par le **web**, je me concentre aujourd’hui sur **Python, SQL, Power BI** et les bases de **ML**. Mon truc : **comprendre le besoin**, aller vite au premier résultat, puis **itérer** jusqu’à la valeur.
 
+**Ce qui me caractérise :**
+- 🎯 **Orienté impact** — des indicateurs qui servent le business (pas des graphes décoratifs)
+- ⚙️ **Du brut au clair** — requêtes SQL propres, modèles simples qui tiennent la route, Data Viz soignée
+- 🤝 **Esprit produit** — parler métier, poser les bonnes questions, livrer en petits incréments
+- 🚀 **Rigueur + vitesse** — POC rapide → validation → version fiable
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
-</div>
+> 🎓 Actuellement en **Bachelor IA (La Plateforme)** · 📍 **Bouches-du-Rhône**  
+> 🔎 Recherche **alternance 24 mois** (Sept 2025) : **Data / BI / IA**
 
-</td><td valign="top" width="33%">
+---
 
+## 🇬🇧 About
+I build **useful, readable, decision-driving data solutions** — from raw data to a **dashboard** that actually gets used.  
+Coming from **web dev**, I’m now focused on **Python, SQL, Power BI**, and foundational **ML**. My thing: **clarify the need**, ship a first result fast, then **iterate** to value.
 
+**What you can expect:**
+- 🎯 **Impact focus** — KPIs that serve the business (not decorative charts)
+- ⚙️ **From raw to clear** — solid SQL, simple models that hold up, clean Data Viz
+- 🤝 **Product mindset** — translate business needs, ask the right questions, ship in slices
+- 🚀 **Speed with rigor** — quick POC → validation → stable version
 
-### DevOps  
-<div align="center">  
-  
-</div>
+> 🎓 **Bachelor in AI (La Plateforme)** · 📍 **Marseille area**  
+> 🔎 Looking for a **24-month work-study (Sept 2025)** in **Data / BI / AI**
 
-</td></tr></table>  
+---
 
-<br/>  
-
-
-## Connect with me  
+## 🧰 Stack (what I actually use)
 <div align="center">
-<a href="https://github.com/https://github.com/RomainJazzar" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/romainjazzar" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/romainjazzar" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/romainjazzar" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/romainjazzar" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/romainjazzar" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>  
+**Data & AI**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![TensorFlow (basics)](https://img.shields.io/badge/TensorFlow-Basics-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+
+**Analytics / BI**  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white&style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge)
+
+**Web / Apps**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
+![React (basics)](https://img.shields.io/badge/React-Basics-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![Tkinter](https://img.shields.io/badge/Tkinter-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+</div>
+
+---
+
+## 🔥 Highlights (quick wins)
+- 💰 **Budget Buddy** : App de gestion financière (Tkinter + MySQL) + **dashboards** (Power BI)
+- 🎬 **Netflix Insights** : analyse Python + **Data Viz** actionnable
+- 🕵️ **Dr Death** : **Power BI** storytelling (cas Shipman)
+- 📈 **Google BI Dashboard** : BigQuery/SQL → KPIs e-commerce & rapports
+- 🧪 **R Shiny – Drugs & Psychology** : dashboard interactif (UCI dataset) + slides
+
+> Détails, captures & liens ici → **Portfolio** : https://romainjazzar.github.io/Mon-portfolio-IA/
+
+---
+
+## 🚧 En ce moment / Currently
+- 🧹 Requêtes SQL + nettoyage data pour BI
+- 📊 Maquettes de dashboards → feedback → version 1
+- 🤖 Petits notebooks ML “juste ce qu’il faut” pour de vrais cas
+
+---
+
+## 🤝 Comment je peux aider / How I can help
+- Transformer un besoin flou en indicateurs clairs  
+- Poser la **bonne question** avant d’empiler des features  
+- Mettre en prod **simple** (fichiers, gantt, calendrier d’itérations)  
+- Laisser une **trace propre** (README, scripts reproductibles)
+
+---
+
+## 📫 Contact / Contact
+- ✉️ **Email** : romain.jazzar@laplateforme.io  
+- 💼 **LinkedIn** : https://www.linkedin.com/in/romainjazzar/  
+- 🌐 **Portfolio** : https://romainjazzar.github.io/Mon-portfolio-IA/  
+
+> 📌 **Alternance 24 mois – Data / BI / IA – Sept 2025 – Bouches-du-Rhône**
+
+---
+
+## 📊 Stats
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=RomainJazzar&show_icons=true&count_private=true&hide_border=true" height="145" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomainJazzar&layout=compact&hide_border=true" height="145" />
+
+</div>
+
 
 
 ## Github Stats  
